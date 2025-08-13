@@ -1,0 +1,9 @@
+
+---
+
+## `config.yaml` (optional example)
+```yaml
+rows: 300000
+bins: 20
+propensity_clip: [0.01, 0.99]
+outcome_cap: 300000
